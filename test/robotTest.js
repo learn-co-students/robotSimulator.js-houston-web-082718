@@ -29,7 +29,6 @@ describe("robot.js", () => {
   describe("setBearing()", () => {
     const wallE = new Robot();
     const directions = ["north", "south", "east", "west"];
-
     it("should set Robot bearing", () => {
       directions.forEach(direction => {
         wallE.setBearing(direction);
