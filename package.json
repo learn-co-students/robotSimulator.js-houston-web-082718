@@ -29,5 +29,8 @@
   "homepage": "https://github.com/learn-co-curriculum/robotSimulator.js#readme",
   "devDependencies": {
     "learn-browser": "^0.1.15"
+  },
+  "dependencies": {
+    "robot": "^0.3.0"
   }
 }
